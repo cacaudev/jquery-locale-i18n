@@ -1,6 +1,12 @@
 {
+    "@metadata": {
+        "authors": [
+          "Cacau"
+        ]
+    },
     "title": "Hello world",
     "paragraph-title": "This is test for curriculum internacionalization",
+    "paragraph-with-args": "A letter from {{sitename}}",
    
     "portuguese": "Brazilian Portuguese",
     "english": "English"
